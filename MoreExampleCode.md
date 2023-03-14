@@ -92,5 +92,7 @@ if __name__ == "__main__":
 ```
 
 ## Thank you for taking the time to look at my code 
+----------------------
+[View README](README.md)
 
  

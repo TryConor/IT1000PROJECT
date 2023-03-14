@@ -10,3 +10,5 @@ The purpose of this webpage is to introduce you, the reader, to some of the goal
 - Most importantly, I hope to maintain and build connections from within the University and College of Engineering that will benefit my career and personal goals later in life
 
 *Conor Mclaughlin MIZ 25`*
+--------------------
+[View README](README.md)

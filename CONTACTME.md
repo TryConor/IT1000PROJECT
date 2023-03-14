@@ -7,6 +7,7 @@ The purpose of this webpage is to provide you, the reader, with some methods of 
 - cjmw5t@umsystem.edu
 - TryFrags#8704 [Discord Login](discord.com)
 --------------
+[View README](README.md)
 
 
 
