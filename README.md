@@ -20,6 +20,10 @@ If someone were to ask me what my favorite things about Mizzou were I would give
 
 If you would like to share this site with someone else please visit [GitHub](https://github.com/TryConor/IT1000PROJECT.git)
 
+Below is a small selection of my favorite websites
+- [Youtube](https://www.youtube.com/)
+- [Twitch](https://www.twitch.tv/)
+- [RedBubble/Stickers](https://www.redbubble.com/shop/stickers)
 Here is an example of some of the work I have completed in this class
 ```
 //function fizzbuzz() {
