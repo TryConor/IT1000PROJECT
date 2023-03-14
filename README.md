@@ -22,9 +22,11 @@ If you would like to share this site with someone else please visit [GitHub](htt
 
 Please click the following link(s) if you would like to view additional markdown pages
 
-[ViewREADME](README.md)
+[View README](README.md)
 
-[ViewGoals](GOALS.md)
+[View Goals](GOALS.md)
+
+[View Contact Me](CONTACTME.md)
 
 Below is a small selection of my favorite websites
 - [Youtube](https://www.youtube.com/)
