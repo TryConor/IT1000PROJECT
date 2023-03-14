@@ -8,7 +8,7 @@ My name is Conor McLaughlin and I am a sophmore currently enrolled at the **Univ
 ------------------------
 
 If someone were to ask me what my favorite things about Mizzou were I would give them a list.
-                                                [alt_text](https://github.com/TryConor/IT1000PROJECT/blob/main/irish-ga3bb0bf24_1280.png)
+                                                ![alt_text(https://github.com/TryConor/IT1000PROJECT/blob/main/irish-ga3bb0bf24_1280.png)
 - Extracurricular Activities
 - The Recreational Center
 - The Lafferre Engineering Building
