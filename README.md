@@ -22,7 +22,7 @@ If you would like to share this site with someone else please visit [GitHub](htt
 
 Please click the following link(s) if you would like to view additional markdown pages
 
-[About Me](file:///C:/Users/conor/Desktop/IFOTC1000Project/INFOTC1000Project/README.md)
+[ViewGoals](GOALS.md)
 [Goals](file:///C:/Users/conor/Desktop/IFOTC1000Project/INFOTC1000Project/GOALS.md)
 
 Below is a small selection of my favorite websites
