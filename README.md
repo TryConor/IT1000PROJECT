@@ -28,6 +28,10 @@ Please click the following link(s) if you would like to view additional markdown
 
 [View Contact Me](CONTACTME.md)
 
+[View More Example Code](MoreExampleCode.md)
+
+[View Photo Library](PhotoLibrary.md)
+
 Below is a small selection of my favorite websites
 - [Youtube](https://www.youtube.com/)
 - [Twitch](https://www.twitch.tv/)
