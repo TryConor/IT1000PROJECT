@@ -1,5 +1,7 @@
 # Conor McLaughlin
 
+![PICTURE](https://cdn.pixabay.com/photo/2013/07/12/17/20/leaf-152047_960_720.png)
+
 The purpose of this webpage is to introduce you, the reader, to me the student!
 
 ## A little bit about me
@@ -8,7 +10,7 @@ My name is Conor McLaughlin and I am a sophmore currently enrolled at the **Univ
 ------------------------
 
 If someone were to ask me what my favorite things about Mizzou were I would give them a list.
-                                                ![PICTURE](https://cdn.pixabay.com/photo/2013/07/12/17/20/leaf-152047_960_720.png)
+                                                
 - Extracurricular Activities
 - The Recreational Center
 - The Lafferre Engineering Building
