@@ -16,7 +16,7 @@ If someone were to ask me what my favorite things about Mizzou were I would give
 - The Transportation on and off campus 
 - How close everything is together
 
-If you would like to share this site with someone else please visit [GitHub](https://github.com/TryConor/IT1000PROJECT.git)
+If you would like to share this site with someone else please visit [GitHub]("C:\Users\conor\Desktop\IFOTC1000Project\INFOTC1000Project\irish-ga3bb0bf24_1280.jpg")
 
 
 
