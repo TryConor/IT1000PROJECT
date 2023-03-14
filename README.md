@@ -24,6 +24,7 @@ Below is a small selection of my favorite websites
 - [Youtube](https://www.youtube.com/)
 - [Twitch](https://www.twitch.tv/)
 - [RedBubble/Stickers](https://www.redbubble.com/shop/stickers)
+
 Here is an example of some of the work I have completed in this class
 ```
 //function fizzbuzz() {
