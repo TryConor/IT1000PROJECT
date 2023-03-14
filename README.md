@@ -18,6 +18,27 @@ If someone were to ask me what my favorite things about Mizzou were I would give
 
 If you would like to share this site with someone else please visit [GitHub](https://github.com/TryConor/IT1000PROJECT.git)
 
+Here is an example of some of the work I have completed in this class
+
+function fizzbuzz() {
+	var display = document.getElementById('display');
+	var displayHTML = "";
+	for (i = 1; i <= 100; i++) {
+		if (i % 3 == 0 && i % 5 == 0) {
+			displayHTML += "<p>FizzBuzz</p>";
+		} else if (i % 3 == 0) {
+			displayHTML += "<p>Fizz</p>";
+		} else if (i % 5 == 0) {
+			displayHTML += "<p>Buzz</p>";
+		} else {
+			displayHTML += "<p>" + i + "</p>";
+		}
+	}
+	display.innerHTML = displayHTML;
+}
+
+
+
 
 
  
